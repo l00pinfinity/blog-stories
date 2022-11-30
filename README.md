@@ -1,2 +1,2 @@
 # blog-stories
-Contains my blog posts online, got a suggestion? A correction, perhaps? Open an Issue on the Github repository, or make a pull request yourself
+It contains my blog posts online, do you have any suggestions? A correction, perhaps? Make a pull request on Github or open an issue
