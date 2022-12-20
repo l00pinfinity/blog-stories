@@ -14,7 +14,7 @@ Some companies encourage their senior developers to mentor junior developers, wh
 A line manager supervises other employees and processes while reporting directly to the senior manager.
 ```
 
-#### Getting to know your boss and learning from them
+## Getting to know your boss and learning from them
 
 Your manager is the one who sets the tone for your team and helps determine what tasks are most important. If you understand how they like to work, it will make collaborating with them much easier.
 
@@ -32,7 +32,7 @@ It's easy to go to your manager with a problem or issue that you're having at wo
 
 Don't be afraid to ask your manager for help if you're feeling overwhelmed by a task or project
 
-#### What if the line manager is not helpful?
+## What if the line manager is not helpful?
 
 No matter what, your line manager deserves respect and friendliness. If they're not receptive, try finding someone else with more experience than you at something you'd like to learn. You can also ask your colleagues for advice about improving certain skills.
 
@@ -40,7 +40,7 @@ What should you do if there is no one in the company with more experience than y
 
 In this case, consider looking outside your company for someone with more experience with whom you may be able to learn. You may have to pay for their time, but it will be worth it because they can give you a different perspective on things and prevent you from making mistakes others made before you.
 
-#### How to be a good line manager?
+## How to be a good line manager?
 
 Your top priority is your employee's career growth - you know their strengths and opportunities and can recommend internal and external classes to help them develop their skills.
 
@@ -55,4 +55,5 @@ If you hire Brian to paint the entire stadium, don't hold his hand while he pain
 Develop a strategy and, most importantly, explain why it is a strategy - Set aside time to expose all of this continually
 
 Please check out <https://github.com/l00pinfinity/blog-stories>. It contains my blog posts online, do you have any suggestions? A correction, perhaps? Make a pull request on Github or open an issue.
-Thanks for reading and stay tuned!!!
+
+Thanks for reading and stay tuned!!
