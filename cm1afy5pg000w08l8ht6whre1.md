@@ -1,8 +1,8 @@
 ---
-title: "OverTheWire’s Bandit: A Hands-On Guide to Linux Commands and Security Fundamentals"
+title: "OverTheWire's Bandit: A Hands-On Guide to Linux Commands and Security Fundamentals - Part 1 (Level 0–10)"
 datePublished: Fri Sep 20 2024 08:10:42 GMT+0000 (Coordinated Universal Time)
 cuid: cm1afy5pg000w08l8ht6whre1
-slug: overthewires-bandit-a-hands-on-guide-to-linux-commands-and-security-fundamentals
+slug: overthewires-bandit-a-hands-on-guide-to-linux-commands-and-security-fundamentals-part-1-level-010
 tags: linux, cybersecurity, ctf, overthewire, overthewirewriteup
 
 ---
